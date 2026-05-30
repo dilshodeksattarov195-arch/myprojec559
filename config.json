@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configptringify",
+        "uuid": 4452435,
+        "checksum": "resp2"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
